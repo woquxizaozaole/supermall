@@ -2,6 +2,7 @@
   <div id="app">
     <router-view></router-view>
     <main-tab-bar></main-tab-bar>
+    <h2>测试git分支</h2>
   </div>
 </template>
 
